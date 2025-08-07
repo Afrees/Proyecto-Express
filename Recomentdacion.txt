@@ -1,0 +1,9 @@
+Comandos de Instalacion Backend
+npm init -y
+npm install express cors
+npm install nodemon --save-dev
+
+
+Comandos de Instalacion Frontend
+npm install axios
+npm i
